@@ -13,4 +13,5 @@ The central idea of this material is to explain the theory with examples in real
 ## Projects:
 
 ## Projetos de análise exploratória
-* **Análise dos dados do Airbnb em Toronto:** https://bit.ly/2O7a6BQ
+* **Descriptive Analysis Project:** https://bit.ly/3qHc63a
+* **Probability and Sampling Design:** https://bit.ly/2TFVHQa
