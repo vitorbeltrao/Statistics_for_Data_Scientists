@@ -10,8 +10,7 @@ The central idea of this material is to explain the theory with examples in real
 * [Medium](https://www.medium.com)
 
 
-## Projetos:
-Veja os tutoriais publicados do Vítor Beltrão:
+## Projects:
 
 ## Projetos de análise exploratória
 * **Análise dos dados do Airbnb em Toronto:** https://bit.ly/2O7a6BQ
