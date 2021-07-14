@@ -16,3 +16,4 @@ The central idea of this material is to explain the theory with examples in real
 * **Descriptive Analysis Project:** https://bit.ly/3qHc63a
 * **Probability and Sampling Design:** https://bit.ly/2TFVHQa
 * **Hypothesis Test:** https://bit.ly/3yTPteP
+* **Correlation and Regression:** https://bit.ly/2Tb9Rsz
