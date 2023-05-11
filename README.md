@@ -1,19 +1,23 @@
 # Statistics by Vítor Beltrão
-<sub>*Data Scientist*
 
-Statistics is fundamental to the work of a data scientist and many others.
-This repository covers a very complete course in statistics to contribute to the community.
-The central idea of this material is to explain the theory with examples in real datasets using python.
+Hello!
 
-**Links:**
-* [LinkedIn](https://www.linkedin.com/in/v%C3%ADtor-beltr%C3%A3o-56a912178/)
-* [Medium](https://www.medium.com)
+Welcome to my GitHub repository, where I share a link to a Notion with interesting statistical content. This Notion contains information about exploratory data analysis, probabilities, inferential statistics, correlation, and regression.
 
+Statistics is a science that studies the processes of data collection, organization, analysis, and interpretation. It is a powerful tool for making decisions based on facts and evidence. The content in the Notion that I share in this repository can help you better understand statistics and its fundamental concepts.
 
-## Projects:
+The content of this Notion includes:
 
-## Statistics Topics:
-* **Descriptive Analysis Project:** https://bit.ly/3qHc63a
-* **Probability and Sampling Design:** https://bit.ly/2TFVHQa
-* **Hypothesis Test:** https://bit.ly/3yTPteP
-* **Correlation and Regression:** https://bit.ly/2Tb9Rsz
+* An introduction to exploratory data analysis, which is a technique used to summarize and visualize data
+* An overview of probabilities, which is a numerical measure that represents the chance of an event occurring
+* An introduction to inferential statistics, which is a technique for extrapolating information from a sample to a larger population
+* An explanation of correlation and regression, which are techniques used to evaluate the relationship between two variables
+* We also have some very useful technical articles that I have separated at the bottom of the page
+
+If you are interested in learning more about statistics, feel free to access the Notion that I share in this repository. There, you will find detailed information on the topics mentioned above, as well as practical examples and exercises to help solidify your knowledge.
+
+To access the Notion, simply click on the link below:
+
+[Probabilities and Statistics](https://atom-cry-44b.notion.site/Probabilidade-e-Estat-stica-489410b1148e485fbb35f815c845c7d2)
+
+Thank you for visiting my repository!
