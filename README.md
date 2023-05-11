@@ -20,4 +20,4 @@ To access the Notion, simply click on the link below:
 
 [Probabilities and Statistics](https://atom-cry-44b.notion.site/Probabilidade-e-Estat-stica-489410b1148e485fbb35f815c845c7d2)
 
-Thank you for visiting my repository!
+I hope this repository is useful for you! If you have any questions or suggestions, please feel free to contact me.
